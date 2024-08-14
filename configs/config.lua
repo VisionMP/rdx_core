@@ -17,6 +17,7 @@ Config.RadarTypeM                 = 1
 Config.Radar                      = false
 Config.Sleep                      = 650
 Config.Fps                        = false
+Config.StartingHorse              = ""
 
 Config.Accounts = {
 	{ name = 'bank', label = _U('account_bank'), priority = 0.0 },
